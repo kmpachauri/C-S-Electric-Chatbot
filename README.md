@@ -1,2 +1,2 @@
 # C-S-Electric-Chatbot
-made a manu based chatbot specific for C&amp;S Electric Company
+Created a menu based chatbot specific for C&S Electric Company
